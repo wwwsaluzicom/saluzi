@@ -79,3 +79,9 @@ zh_CN:
           top: "没有更多热门主题了。"
           bookmarks: "没有更多加上书签的主题了。"
           search: "没有更多搜索结果了。"
+
+    badges:
+      title: "徽章"
+        
+    user:
+      watched_first_post_categories: "仅关注第一帖"

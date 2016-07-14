@@ -83,5 +83,5 @@ zh_CN:
       dates:
         short_date:YYYY, MMM D
         short_date_no_year:MMM D
-        long_date:YYYY MMM D mma:h
+        long_date:YYYY MMM D h:mma
     

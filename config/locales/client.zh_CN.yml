@@ -79,3 +79,9 @@ zh_CN:
           top: "没有更多热门主题了。"
           bookmarks: "没有更多加上书签的主题了。"
           search: "没有更多搜索结果了。"
+
+      dates:
+        short_date:YYYY, MMM D
+        short_date_no_year:MMM D
+        long_date:YYYY MMM D mma:h
+    

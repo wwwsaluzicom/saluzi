@@ -19,3 +19,8 @@ zh_CN:
   rss_by_tag: "%{tag}标签的主题"
   rss_description:
     tag: "加标签的主题"
+    
+  dates:
+    short_date:YYYY, MMM D
+    short_date_no_year:MMM D
+    long_date:YYYY MMM D h:mma
